@@ -8,5 +8,6 @@ public class UserProfile : ScriptableObject
     public string email;
     public string displayname;
     public string password;
+    public string playfabid;
 
 }

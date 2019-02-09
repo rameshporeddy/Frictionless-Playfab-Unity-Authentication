@@ -2,3 +2,5 @@ Frictionless-Playfab-Authentication/Temp/
 Frictionless-Playfab-Authentication/Library/
 Library/
 Packages/
+Assets/PlayFabSdk/Shared/Public/Resources/PlayFabSharedSettings.asset
+obj/
